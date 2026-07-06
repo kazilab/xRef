@@ -1,0 +1,577 @@
+References:
+Reference Type:  Journal Article
+Record Number: 11
+Author: Coates, J.
+Year: 2006
+Title: Interpretation of Infrared Spectra, A Practical Approach
+Journal: Encyclopedia of Analytical Chemistry
+Volume: 10.1002/9780470027318.a5606
+Short Title: Interpretation of Infrared Spectra, A Practical Approach
+DOI: 10.1002/9780470027318.a5606
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470027318.a5606
+
+
+Reference Type:  Journal Article
+Record Number: 12
+Author: Chen, Y., Wen, D., Pei, J., Fei, Y., Ouyang, D., Zhang, H. and Luo, Y.
+Year: 2020
+Title: Identification and quantification of microplastics using Fourier-transform infrared spectroscopy: Current status and future prospects
+Journal: Current Opinion in Environmental Science & Health
+Volume: 18
+Pages: 14-19
+Date: 2020/12/01/
+Short Title: Identification and quantification of microplastics using Fourier-transform infrared spectroscopy: Current status and future prospects
+ISSN: 2468-5844
+DOI: https://doi.org/10.1016/j.coesh.2020.05.004
+URL: https://www.sciencedirect.com/science/article/pii/S2468584420300374
+
+
+Reference Type:  Journal Article
+Record Number: 13
+Author: Primpke, S., Wirth, M., Lorenz, C. and Gerdts, G.
+Year: 2018
+Title: Reference database design for the automated analysis of microplastic samples based on Fourier transform infrared (FTIR) spectroscopy
+Journal: Analytical and Bioanalytical Chemistry
+Volume: 410
+Issue: 21
+Pages: 5131-5141
+Date: 2018/08/01
+Short Title: Reference database design for the automated analysis of microplastic samples based on Fourier transform infrared (FTIR) spectroscopy
+ISSN: 1618-2650
+DOI: 10.1007/s00216-018-1156-x
+URL: https://doi.org/10.1007/s00216-018-1156-x
+
+
+Reference Type:  Journal Article
+Record Number: 14
+Author: Cowger, W., Booth, A. M., Hamilton, B. M., Thaysen, C., Primpke, S., Munno, K., Lusher, A. L., Dehaut, A., Vaz, V. P., Liboiron, M., Devriese, L. I., Hermabessiere, L., Rochman, C., Athey, S. N., Lynch, J. M., De Frond, H., Gray, A., Jones, O. A. H., Brander, S., Steele, C., Moore, S., Sanchez, A. and Nel, H.
+Year: 2020
+Title: Reporting Guidelines to Increase the Reproducibility and Comparability of Research on Microplastics
+Journal: Appl Spectrosc
+Volume: 74
+Issue: 9
+Pages: 1066-1077
+Epub Date: 20200612
+Date: Sep
+Short Title: Reporting Guidelines to Increase the Reproducibility and Comparability of Research on Microplastics
+ISSN: 1943-3530 (Electronic)
+0003-7028 (Print)
+0003-7028 (Linking)
+DOI: 10.1177/0003702820930292
+PMCID: PMC8216484
+Accession Number: 32394727
+URL: https://www.ncbi.nlm.nih.gov/pubmed/32394727
+
+
+Reference Type:  Journal Article
+Record Number: 2
+Author: Zhang, F., Tang, X. and Li, L.
+Year: 2022
+Title: Origins of Baseline Drift and Distortion in Fourier Transform Spectra
+Journal: Molecules
+Volume: 27
+Issue: 13
+Epub Date: 20220703
+Date: Jul 3
+Short Title: Origins of Baseline Drift and Distortion in Fourier Transform Spectra
+ISSN: 1420-3049 (Electronic)
+1420-3049 (Linking)
+DOI: 10.3390/molecules27134287
+Legal Note: The authors declare no conflict of interest.
+PMCID: PMC9268569
+URL: https://www.ncbi.nlm.nih.gov/pubmed/35807532
+
+
+Reference Type:  Journal Article
+Record Number: 1
+Author: Rinnan, Å., van den Berg, F.  and Engelsen, S. B.
+Year: 2009
+Title: Review of the most common pre-processing techniques for near-infrared spectra
+Journal: TrAC Trends in Analytical Chemistry
+Volume: 28
+Issue: 10
+Pages: 1201-1222
+Date: 2009/11/01/
+Short Title: Review of the most common pre-processing techniques for near-infrared spectra
+ISSN: 0165-9936
+DOI: https://doi.org/10.1016/j.trac.2009.07.007
+URL: https://www.sciencedirect.com/science/article/pii/S0165993609001629
+
+
+Reference Type:  Journal Article
+Record Number: 3
+Author: Tafintseva, V., Lintvedt, T. A., Solheim, J. H., Zimmermann, B., Rehman, H. U., Virtanen, V., Shaikh, R., Nippolainen, E., Afara, I., Saarakkala, S., Rieppo, L., Krebs, P., Fomina, P., Mizaikoff, B. and Kohler, A.
+Year: 2022
+Title: Preprocessing Strategies for Sparse Infrared Spectroscopy: A Case Study on Cartilage Diagnostics
+Journal: Molecules
+Volume: 27
+Issue: 3
+Epub Date: 20220127
+Date: Jan 27
+Short Title: Preprocessing Strategies for Sparse Infrared Spectroscopy: A Case Study on Cartilage Diagnostics
+ISSN: 1420-3049 (Electronic)
+1420-3049 (Linking)
+DOI: 10.3390/molecules27030873
+Legal Note: The authors declare no conflict of interest.
+PMCID: PMC8839829
+Accession Number: 35164133
+URL: https://www.ncbi.nlm.nih.gov/pubmed/35164133
+
+
+Reference Type:  Journal Article
+Record Number: 4
+Author: Villegas-Camacho, O., Alejo-Eleuterio, R., Francisco-Valencia, I., Granda-Gutiérrez, E., Martínez-Gallegos, S. and Illescas, J.
+Year: 2024
+Title: FTIR-Plastics: A Fourier Transform Infrared Spectroscopy dataset for the six most prevalent industrial plastic polymers
+Journal: Data in Brief
+Volume: 55
+Pages: 110612
+Date: 2024/08/01/
+Short Title: FTIR-Plastics: A Fourier Transform Infrared Spectroscopy dataset for the six most prevalent industrial plastic polymers
+ISSN: 2352-3409
+DOI: https://doi.org/10.1016/j.dib.2024.110612
+URL: https://www.sciencedirect.com/science/article/pii/S2352340924005791
+
+
+Reference Type:  Journal Article
+Record Number: 19
+Author: Jung, M. R., Balazs, G. H., Work, T. M., Jones, T. T., Orski, S. V., Rodriguez, C. V., Beers, K. L., Brignac, K. C., Hyrenbach, K. D., Jensen, B. A. and Lynch, J. M.
+Year: 2018
+Title: Polymer Identification of Plastic Debris Ingested by Pelagic-Phase Sea Turtles in the Central Pacific
+Journal: Environ Sci Technol
+Volume: 52
+Issue: 20
+Pages: 11535-11544
+Epub Date: 20180926
+Date: Oct 16
+Short Title: Polymer Identification of Plastic Debris Ingested by Pelagic-Phase Sea Turtles in the Central Pacific
+ISSN: 1520-5851 (Electronic)
+0013-936X (Linking)
+DOI: 10.1021/acs.est.8b03118
+URL: https://www.ncbi.nlm.nih.gov/pubmed/30207718
+
+
+Reference Type:  Journal Article
+Record Number: 18
+Author: De Frond, H., Rubinovitz, R. and Rochman, C. M.
+Year: 2021
+Title: muATR-FTIR Spectral Libraries of Plastic Particles (FLOPP and FLOPP-e) for the Analysis of Microplastics
+Journal: Anal Chem
+Volume: 93
+Issue: 48
+Pages: 15878-15885
+Epub Date: 20211123
+Date: Dec 7
+Short Title: muATR-FTIR Spectral Libraries of Plastic Particles (FLOPP and FLOPP-e) for the Analysis of Microplastics
+ISSN: 1520-6882 (Electronic)
+0003-2700 (Linking)
+DOI: 10.1021/acs.analchem.1c02549
+URL: https://www.ncbi.nlm.nih.gov/pubmed/34813292
+
+
+Reference Type:  Journal Article
+Record Number: 20
+Author: Kedzierski, M., Falcou-Prefol, M., Kerros, M. E., Henry, M., Pedrotti, M. L. and Bruzaud, S.
+Year: 2019
+Title: A machine learning algorithm for high throughput identification of FTIR spectra: Application on microplastics collected in the Mediterranean Sea
+Journal: Chemosphere
+Volume: 234
+Pages: 242-251
+Epub Date: 20190606
+Date: Nov
+Short Title: A machine learning algorithm for high throughput identification of FTIR spectra: Application on microplastics collected in the Mediterranean Sea
+ISSN: 1879-1298 (Electronic)
+0045-6535 (Linking)
+DOI: 10.1016/j.chemosphere.2019.05.113
+Accession Number: 31226506
+URL: https://www.ncbi.nlm.nih.gov/pubmed/31226506
+
+
+Reference Type:  Journal Article
+Record Number: 41
+Author: Villegas-Camacho, O., Alejo-Eleuterio, R., Francisco-Valencia, I., Granda-Gutiérrez, E., Martínez-Gallegos, S. and Illescas, J.
+Year: 2024
+Title: FTIR-Plastics: a Fourier Transform Infrared Spectroscopy dataset for the six most prevalent industrial plastic polymers. [Data set]. Version v1 May 1, 2024
+Journal: Zenodo
+Volume: DOI: 10.5281/zenodo.10736650
+Short Title: FTIR-Plastics: a Fourier Transform Infrared Spectroscopy dataset for the six most prevalent industrial plastic polymers. [Data set]. Version v1 May 1, 2024
+
+
+Reference Type:  Journal Article
+Record Number: 22
+Author: Fritsch, F. N. and Carlson, R. E.
+Year: 1980
+Title: Monotone Piecewise Cubic Interpolation
+Journal: SIAM Journal on Numerical Analysis
+Volume: 17
+Issue: 2
+Pages: 238-246
+Short Title: Monotone Piecewise Cubic Interpolation
+ISSN: 00361429
+Legal Note: Full publication date: Apr., 1980
+URL: http://www.jstor.org/stable/2156610
+Access Date: 2026/02/22/
+Name of Database: JSTOR
+
+
+Reference Type:  Journal Article
+Record Number: 23
+Author: Savitzky, A. and Golay, M. J. E.
+Year: 1964
+Title: Smoothing and Differentiation of Data by Simplified Least Squares Procedures
+Journal: Analytical Chemistry
+Volume: 36
+Issue: 8
+Pages: 1627-1639
+Date: 1964/07/01
+Short Title: Smoothing and Differentiation of Data by Simplified Least Squares Procedures
+ISSN: 0003-2700
+DOI: 10.1021/ac60214a047
+URL: https://doi.org/10.1021/ac60214a047
+
+
+Reference Type:  Journal Article
+Record Number: 24
+Author: Benjamini, Y. and Hochberg, Y.
+Year: 1995
+Title: Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing
+Journal: Journal of the Royal Statistical Society. Series B (Methodological)
+Volume: 57
+Issue: 1
+Pages: 289-300
+Short Title: Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing
+ISSN: 00359246
+Legal Note: Full publication date: 1995
+URL: http://www.jstor.org/stable/2346101
+Access Date: 2026/02/22/
+Name of Database: JSTOR
+
+
+Reference Type:  Journal Article
+Record Number: 25
+Author: van der Maaten, L. and Hinton, G.
+Year: 2008
+Title: Visualizing Data using t-SNE
+Journal: Journal of Machine Learning Research
+Volume: 9
+Pages: 2579--2605
+Short Title: Visualizing Data using t-SNE
+Legal Note: vanDerMaaten2008
+Keywords: dimensionality_reduction tSNE visualization
+URL: http://www.jmlr.org/papers/v9/vandermaaten08a.html
+
+
+Reference Type:  Journal Article
+Record Number: 27
+Author: McInnes, L., Healy, J., Saul, N. and Großberger, L.
+Year: 2018
+Title: UMAP: Uniform Manifold Approximation and Projection
+Journal: Journal of Open Source Software
+Volume: 3
+Issue: 29
+Pages: 861
+Short Title: UMAP: Uniform Manifold Approximation and Projection
+DOI: 10.21105/joss.00861
+
+
+Reference Type:  Journal Article
+Record Number: 28
+Author: Trygg, J. and Wold, S.
+Year: 2002
+Title: Orthogonal projections to latent structures (O-PLS)
+Journal: Journal of Chemometrics
+Volume: 16
+Issue: 3
+Pages: 119-128
+Short Title: Orthogonal projections to latent structures (O-PLS)
+ISSN: 0886-9383
+DOI: https://doi.org/10.1002/cem.695
+URL: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/cem.695
+
+
+Reference Type:  Conference Paper
+Record Number: 29
+Author: Chen, T. and Guestrin, C.
+Year: 2016
+Title: XGBoost: A Scalable Tree Boosting System
+Conference Name: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+Conference Location: San Francisco, California, USA
+Publisher: Association for Computing Machinery
+Pages: 785–794
+DOI: 10.1145/2939672.2939785
+Keywords: large-scale machine learning
+URL: https://doi.org/10.1145/2939672.2939785
+
+
+Reference Type:  Conference Paper
+Record Number: 30
+Author: Lundberg, S. M.  and Lee, S. I.
+Year: 2017
+Title: A unified approach to interpreting model predictions
+Conference Name: Proceedings of the 31st International Conference on Neural Information Processing Systems
+Conference Location: Long Beach, California, USA
+Publisher: Curran Associates Inc.
+Pages: 4768–4777
+
+
+Reference Type:  Journal Article
+Record Number: 5
+Author: Alsberg, B. K., Woodward, A. M., Winson, M. K., Rowland, J. and Kell, D. B.
+Year: 1997
+Title: Wavelet Denoising of Infrared Spectra
+Journal: Analyst
+Volume: 122
+Issue: 7
+Pages: 645-652
+Type of Article: 10.1039/A608255F
+Short Title: Wavelet Denoising of Infrared Spectra
+ISSN: 0003-2654
+DOI: 10.1039/A608255F
+URL: http://dx.doi.org/10.1039/A608255F
+
+
+Reference Type:  Journal Article
+Record Number: 6
+Author: Zhang, Z. M., Chen, S. and Liang, Y. Z.
+Year: 2010
+Title: Baseline correction using adaptive iteratively reweighted penalized least squares
+Journal: Analyst
+Volume: 135
+Issue: 5
+Pages: 1138-1146
+Type of Article: 10.1039/B922045C
+Short Title: Baseline correction using adaptive iteratively reweighted penalized least squares
+ISSN: 0003-2654
+DOI: 10.1039/B922045C
+URL: http://dx.doi.org/10.1039/B922045C
+
+
+Reference Type:  Journal Article
+Record Number: 7
+Author: Zhang, F., Tang, X., Tong, A., Wang, B., Wang, J., Lv, Y., Tang, C. and Wang, J
+Year: 2020
+Title: Baseline correction for infrared spectra using adaptive smoothness parameter penalized least squares method
+Journal: Spectroscopy Letters
+Volume: 53
+Issue: 3
+Pages: 222-233
+Date: 2020/03/15
+Short Title: Baseline correction for infrared spectra using adaptive smoothness parameter penalized least squares method
+ISSN: 0038-7010
+DOI: 10.1080/00387010.2020.1730908
+URL: https://doi.org/10.1080/00387010.2020.1730908
+
+
+Reference Type:  Journal Article
+Record Number: 8
+Author: Barnes, R. J., Dhanoa, M. S. and Lister, Susan J.
+Year: 1989
+Title: Standard Normal Variate Transformation and De-Trending of Near-Infrared Diffuse Reflectance Spectra
+Journal: Applied Spectroscopy
+Volume: 43
+Issue: 5
+Pages: 772-777
+Short Title: Standard Normal Variate Transformation and De-Trending of Near-Infrared Diffuse Reflectance Spectra
+DOI: 10.1366/0003702894202201
+Keywords: De-trending of NIR spectra
+URL: https://journals.sagepub.com/doi/abs/10.1366/0003702894202201
+
+
+Reference Type:  Journal Article
+Record Number: 9
+Author: Hudecová, J., Profant, V., Novotná, P., Baumruk, V., Urbanová, M. and Bouř, P.
+Year: 2013
+Title: CH Stretching Region: Computational Modeling of Vibrational Optical Activity
+Journal: Journal of Chemical Theory and Computation
+Volume: 9
+Issue: 7
+Pages: 3096-3108
+Date: 2013/07/09
+Short Title: CH Stretching Region: Computational Modeling of Vibrational Optical Activity
+ISSN: 1549-9618
+DOI: 10.1021/ct400285n
+URL: https://doi.org/10.1021/ct400285n
+
+
+Reference Type:  Journal Article
+Record Number: 10
+Author: Hu, K., Brambilla, L. and Castiglioni, C.
+Year: 2025
+Title: IR Spectroscopy as a Diagnostic Tool in the Recycling Process and Evaluation of Recycled Polymeric Materials
+Journal: Sensors
+Volume: 25
+Issue: 19
+Pages: 6205
+Short Title: IR Spectroscopy as a Diagnostic Tool in the Recycling Process and Evaluation of Recycled Polymeric Materials
+ISSN: 1424-8220
+Accession Number: doi:10.3390/s25196205
+URL: https://www.mdpi.com/1424-8220/25/19/6205
+
+
+Reference Type:  Journal Article
+Record Number: 31
+Author: Lebrun, A., Fortin, H., Fontaine, N., Fillion, D., Barbier, O. and Boudreau, D.
+Year: 2022
+Title: Pushing the Limits of Surface-Enhanced Raman Spectroscopy (SERS) with Deep Learning: Identification of Multiple Species with Closely Related Molecular Structures
+Journal: Appl Spectrosc
+Volume: 76
+Issue: 5
+Pages: 609-619
+Epub Date: 20220326
+Date: May
+Short Title: Pushing the Limits of Surface-Enhanced Raman Spectroscopy (SERS) with Deep Learning: Identification of Multiple Species with Closely Related Molecular Structures
+ISSN: 1943-3530 (Electronic)
+0003-7028 (Print)
+0003-7028 (Linking)
+DOI: 10.1177/00037028221077119
+Legal Note: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+PMCID: PMC9082968
+Accession Number: 35081756
+URL: https://www.ncbi.nlm.nih.gov/pubmed/35081756
+
+
+Reference Type:  Journal Article
+Record Number: 32
+Author: Grant-Peters, M., Rich-Griffin, C., Grant-Peters, J. E., Cinque, G. and Dendrou, C. A.
+Year: 2022
+Title: Photizo: an open-source library for cross-sample analysis of FTIR spectroscopy data
+Journal: Bioinformatics
+Volume: 38
+Issue: 13
+Pages: 3490-3492
+Date: Jun 27
+Short Title: Photizo: an open-source library for cross-sample analysis of FTIR spectroscopy data
+ISSN: 1367-4811 (Electronic)
+1367-4803 (Print)
+1367-4803 (Linking)
+DOI: 10.1093/bioinformatics/btac346
+PMCID: PMC9237726
+Accession Number: 35608303
+URL: https://www.ncbi.nlm.nih.gov/pubmed/35608303
+
+
+
+Reference Type:  Journal Article
+Record Number: 33
+Author: Cowger, W., Steinmetz, Z., Gray, A., Munno, K., Lynch, J., Hapich, H., Primpke, S., De Frond, H., Rochman, C. and Herodotou, O.
+Year: 2021
+Title: Microplastic Spectral Classification Needs an Open Source Community: Open Specy to the Rescue!
+Journal: Anal Chem
+Volume: 93
+Issue: 21
+Pages: 7543-7548
+Epub Date: 20210519
+Date: Jun 1
+Short Title: Microplastic Spectral Classification Needs an Open Source Community: Open Specy to the Rescue!
+ISSN: 1520-6882 (Electronic)
+0003-2700 (Linking)
+DOI: 10.1021/acs.analchem.1c00123
+Accession Number: 34009953
+URL: https://www.ncbi.nlm.nih.gov/pubmed/34009953
+
+
+
+Reference Type:  Journal Article
+Record Number: 34
+Author: Cowger, W., Karapetrova, A., Lincoln, C., Chamas, A., Sherrod, H., Leong, N., Lasdin, K. S., Knauss, C., Teofilovic, V., Arienzo, M. M., Steinmetz, Z., Primpke, S., Darjany, L., Murphy-Hagan, C., Moore, S., Moore, C., Lattin, G., Gray, A., Kozloski, R., Bryksa, J. and Maurer, B.
+Year: 2025
+Title: Open Specy 1.0: Automated (Hyper)spectroscopy for Microplastics
+Journal: Anal Chem
+Volume: 97
+Issue: 32
+Pages: 17345-17356
+Epub Date: 20250811
+Date: Aug 19
+Short Title: Open Specy 1.0: Automated (Hyper)spectroscopy for Microplastics
+ISSN: 1520-6882 (Electronic)
+0003-2700 (Linking)
+DOI: 10.1021/acs.analchem.5c00962
+Accession Number: 40788199
+URL: https://www.ncbi.nlm.nih.gov/pubmed/40788199
+
+
+Reference Type:  Journal Article
+Record Number: 35
+Author: Georgiev, D., Pedersen, S. V., Xie, R., Fernandez-Galiana, A., Stevens, M. M. and Barahona, M.
+Year: 2024
+Title: RamanSPy: An Open-Source Python Package for Integrative Raman Spectroscopy Data Analysis
+Journal: Anal Chem
+Volume: 96
+Issue: 21
+Pages: 8492-8500
+Epub Date: 20240515
+Date: May 28
+Short Title: RamanSPy: An Open-Source Python Package for Integrative Raman Spectroscopy Data Analysis
+ISSN: 1520-6882 (Electronic)
+0003-2700 (Print)
+0003-2700 (Linking)
+DOI: 10.1021/acs.analchem.4c00383
+Legal Note: The authors declare no competing financial interest.
+PMCID: PMC11140669
+Accession Number: 38747470
+URL: https://www.ncbi.nlm.nih.gov/pubmed/38747470
+
+
+Reference Type:  Journal Article
+Record Number: 36
+Author: Primpke, S., Cross, R. K., Mintenig, S. M., Simon, M., Vianello, A., Gerdts, G. and Vollertsen, J.
+Year: 2020
+Title: Toward the Systematic Identification of Microplastics in the Environment: Evaluation of a New Independent Software Tool (siMPle) for Spectroscopic Analysis
+Journal: Appl Spectrosc
+Volume: 74
+Issue: 9
+Pages: 1127-1138
+Date: Sep
+Short Title: Toward the Systematic Identification of Microplastics in the Environment: Evaluation of a New Independent Software Tool (siMPle) for Spectroscopic Analysis
+ISSN: 1943-3530 (Electronic)
+0003-7028 (Print)
+0003-7028 (Linking)
+DOI: 10.1177/0003702820917760
+Legal Note: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+PMCID: PMC7604885
+Accession Number: 32193948
+URL: https://www.ncbi.nlm.nih.gov/pubmed/32193948
+
+
+Reference Type:  Journal Article
+Record Number: 37
+Author: Khanam, M. M., Younus, S., Mousafi Alasal, L., Uddin, M. K. and Kazi, J. U.
+Year: 2026
+Title: Xpectrass - From preprocessing to Machine Learning for Spectral Data. 0.0.4
+Journal: Zenodo
+Volume: DOI: 10.5281/zenodo.20055715
+Short Title: Xpectrass - From preprocessing to Machine Learning for Spectral Data. 0.0.4
+DOI: 10.5281/zenodo.20055715
+
+
+Reference Type:  Journal Article
+Record Number: 38
+Author: Khanam, M. M., Younus, S., Mousafi Alasal, L., Uddin, M. K. and Kazi, J. U.
+Year: 2026
+Title: Xpectrass - From preprocessing to Machine Learning for Spectral Data.
+Journal: GitHub
+Volume: https://github.com/kazilab/xpectrass
+Short Title: Xpectrass - From preprocessing to Machine Learning for Spectral Data.
+
+
+Reference Type:  Journal Article
+Record Number: 39
+Author: Khanam, M. M., Younus, S., Mousafi Alasal, L., Uddin, M. K. and Kazi, J. U.
+Year: 2026
+Title: Xpectrass
+Journal: PyPI
+Volume: https://pypi.org/project/xpectrass/
+Short Title: Xpectrass
+
+
+Reference Type:  Journal Article
+Record Number: 40
+Author: Khanam, M. M., Younus, S., Mousafi Alasal, L., Uddin, M. K. and Kazi, J. U.
+Year: 2026
+Title: Xpectrass - Documentation
+Journal: Read the Docs
+Volume: https://xpectrass.readthedocs.io/en/latest/
+Short Title: Xpectrass - Documentation
+
+
+
